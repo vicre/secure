@@ -1,0 +1,87 @@
+{
+  "encrypted": false,
+  "folders": [],
+  "items": [
+    {
+      "passwordHistory": [],
+      "revisionDate": "2026-01-09T12:43:35.969Z",
+      "creationDate": "2026-01-09T12:31:36.734Z",
+      "id": "d2c1e495-e5a1-49c7-8f58-a29b9e2ea054",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Facebook",
+      "notes": null,
+      "favorite": false,
+      "fields": [
+        {
+          "name": "2fa-recovery-key",
+          "value": "5uzt5yr6qMFBBTzSEPsv2PeEpYshNYxw",
+          "type": 1
+        }
+      ],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://facebook.com"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe@gmail.com",
+        "password": "Unread-Dude8-Unsorted",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2026-01-09T12:31:36.749Z",
+      "creationDate": "2026-01-09T12:31:36.747Z",
+      "id": "bb8a100b-16d2-4135-8214-3b7e8b66a406",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Google (gmail)",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://google.com"
+          },
+          {
+            "uri": "https://myaccount.google.com"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe@gmail.com",
+        "password": "Contend-Chemo-Overturn1",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2026-01-09T12:31:36.753Z",
+      "creationDate": "2026-01-09T12:31:36.751Z",
+      "id": "94fd1de8-3e23-4261-b69d-781d131a8fda",
+      "type": 1,
+      "reprompt": 0,
+      "name": "LinkedIn",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://linkedin.com"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe@gmail.com",
+        "password": "Circus-That-Civic4",
+        "totp": null
+      },
+      "collectionIds": null
+    }
+  ]
+}
