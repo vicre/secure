@@ -2,3 +2,6 @@ python/.venv
 python/ignore
 node/client/node_modules
 node/client/package-lock.json
+python/bitwarden_export_example_reipur_encrypted.json
+.gitignore
+python/bitwarden_export_example_reipur_decryption_key.txt

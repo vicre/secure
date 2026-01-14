@@ -1,5 +1,16 @@
 # din-itsikkerhed
 
+## Første side
+Vejled brugeren til at oprette en konti hos bitwarden. Du kan vælge i mellem EU og COM. Anbefaler at du vælger EU medmindre at du allerede kender nogle som bruger COM udgaven. Grunden at man bruger den samme er så man kan dele password med hinanden.
+
+Checkmarks
+1. Jeg har oprettet en konti bitwarden.eu/com
+2. Jeg har lagt alle mine passwords ind i bitwarden.
+
+
+
+
+
 ## Digital Profil
 Internettet er et farligt sted. Derfor er det vigtigt at du har styr på din digitale profil.
 
@@ -43,3 +54,6 @@ Det er vigtigt at det IT udstyr du bruger, altid er sikkert, så du undgår at n
 TODO
 ### Netværk
 Sørg for at dine enheder altid er på et netværk forbundet til et netværk som du stoler på. Det vil sige et netværk med IDS.
+
+
+
